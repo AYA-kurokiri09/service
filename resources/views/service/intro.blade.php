@@ -23,6 +23,7 @@
 
 <div class="eyecatch">
     <h1>狙った<ruby>獲物<rp>(</rp><rt>ファイル</rt><rp>)</rp></ruby>は<br>逃さない。</h1>
+    <!--「本能のまま仕事しよう」に変える-->
 </div>
 <div class="explanation">
     <p><span>「虎の巻」</span>は、あなたのチームにストレスフリーな使用感を提供する<br>チーム用クラウドストレージサービスです。</p>
