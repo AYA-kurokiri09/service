@@ -30,7 +30,9 @@ Route::get('service_main', 'ServiceController@main')  ->middleware('auth') ->nam
 Route::get('service_sales_main', 'ServiceController@sales_main')  ->middleware('auth') ->name('service.sales_main');
 Route::get('service_general_main', 'ServiceController@ganeral_main')  ->middleware('auth') ->name('service.general_main');
 
+//以下リファクタリングできないか
 //研究開発部　回覧資料
+
 Route::get('service_infile', 'ServiceController@infile')  ->middleware('auth') ->name('service.infile');
 Route::post('service_infile', 'ServiceController@store');
 Route::delete('/{showFile}', 'ServiceController@deleteFile');
