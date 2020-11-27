@@ -10,7 +10,7 @@ use Storage;
 use AuthenticatesUsers;
 use Illuminate\Support\Facades\Hash;
 
-//introも追加する
+//introも追加
 
 class ServiceController extends Controller
 {
