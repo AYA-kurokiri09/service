@@ -17,7 +17,6 @@
     <a href="{{route('service.general_main')}}"><img src="{{asset('img/somu_white.png')}}" alt="" title="総務部"></a>
     <i class = "fas fa-bars"></i>
     </header>
-    
 
     <div class="folder_box">
     @if(isset($showFiles))
