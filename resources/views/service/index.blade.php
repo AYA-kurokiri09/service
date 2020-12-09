@@ -11,7 +11,6 @@
 
 <body>
     <header>
-    <i class = "fas fa-bars"></i>
     </header>
     <img src="{{asset('img/tiger_left.jpg')}}" alt="">
     <hr noshade>
