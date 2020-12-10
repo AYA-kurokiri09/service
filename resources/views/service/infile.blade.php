@@ -39,7 +39,7 @@
     @else <p>データが保存されていません</p>
     @endif
     </div>
-    
+    //「保存されていません」は保留中
     <hr>
     <div class="menu">
         <div class="back">
