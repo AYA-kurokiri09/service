@@ -38,9 +38,10 @@
         @endforeach
     @else <p>データが保存されていません</p>
     @endif
-    </div>
-    //「保存されていません」は保留中
+    </div> //「保存されていません」をそもそも表示するか？
+    
     <hr>
+    
     <div class="menu">
         <div class="back">
         <a href="{{route('service.main')}}"><img src="{{asset('img/arrow_left.png')}}" alt="" id="arrow_left"></a><br>
