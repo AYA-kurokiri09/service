@@ -25,8 +25,7 @@
     </form>
     <a href="{{route('service.newperson')}}", id="register">
     <h4>初めての方はこちら</h4>新規登録</a>
-    </div>
-    
+    </div>   
     
 
                 
